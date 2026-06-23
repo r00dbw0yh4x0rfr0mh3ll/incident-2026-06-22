@@ -1,0 +1,58 @@
+# Incident Report
+
+**Date of Report:** 23 June 2026
+**Reported By:** Arthur Douglas Noel
+
+## Incident Details
+
+| | |
+|---|---|
+| **Date & Time** | 22 June 2026 at 23:25 |
+| **Location** | Dining Room, Luther King Ward, Lambeth Hospital |
+
+## Victim
+
+**Name:** Arthur Douglas Noel
+
+## Suspect
+
+**Name:** Barry Allen
+
+## Description of Incident
+
+At approximately 23:25 on 22 June 2026, the victim (Arthur Douglas Noel) was seated at a table in the dining room of Luther King Ward, Lambeth Hospital, working on a laptop computer and listening to music via headphones.
+
+The suspect (Barry Allen) approached and attempted to engage the victim in conversation. The victim, being unable to hear clearly due to wearing headphones, responded by telling the suspect to leave him alone.
+
+The suspect then threw a Lost Mary BM6000 vape device at the victim's face with apparent intent to cause harm. The object missed the victim's face but struck and damaged the screen of the victim's laptop computer.
+
+## Property Damaged
+
+| | |
+|---|---|
+| **Item** | Lenovo ThinkPad T490 laptop |
+| **Damage** | Screen broken by impact |
+| **Estimated Value** | £200 |
+
+## Potential Offences
+
+- Common Assault (s.39 Criminal Justice Act 1988)
+- Assault with intent to cause GBH (s.18 Offences Against the Person Act 1861)
+- Criminal Damage (s.1 Criminal Damage Act 1971)
+
+## Witnesses
+
+A staff member was present at the time of the incident. Note: this witness has indicated a hostile disposition toward the victim and has reportedly claimed that the victim initiated the altercation. Their account should be treated with caution and any independent evidence (e.g. CCTV) sought to corroborate the sequence of events.
+
+## CCTV
+
+No CCTV coverage is available in the dining room area of Luther King Ward, Lambeth Hospital. The incident was therefore not captured on camera.
+
+## Reporting Status
+
+This incident has not yet been reported to the police. It is recommended that a report be made to the Metropolitan Police as soon as possible, quoting the details above, so that a crime reference number can be obtained.
+
+## Signature
+
+**Name:** Arthur Douglas Noel
+**Date:** 23 June 2026
